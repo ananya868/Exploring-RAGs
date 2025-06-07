@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# envs 
+.env 
+.venv/
+
+# Poetry files 
+pyproject.toml
+poetry.lock
+
 # Distribution / packaging
 .Python
 build/
