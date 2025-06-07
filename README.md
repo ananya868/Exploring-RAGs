@@ -1,2 +1,2 @@
-# Exploring-RAGs
-A repo that explores various RAG methods ! 
+# **tinker-lab**
+A repo that explores state-of-the-art AI !
